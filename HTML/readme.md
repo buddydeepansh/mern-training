@@ -1,1 +1,1 @@
-<centre>HTML DOCUMENTATION<centre>
+<h2 style="text-align:centre;"> HTML DOCUMENTATION </h2>
