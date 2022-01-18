@@ -1,1 +1,1 @@
-<h2 style="text-align:centre;"> HTML DOCUMENTATION </h2>
+<h2 style=" text-align: center; color:red;"> HTML DOCUMENTATION </h2>
