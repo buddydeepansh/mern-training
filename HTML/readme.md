@@ -11,8 +11,8 @@
     \<h1\>,\<div\> and many more by which one can define a structure of
     their webpage. Html is not a case sensitive language so the tags
     \<H1\> & \<h1\> works in a similar way.  
-   <br> Let us discuss a HTML tag: \<p\> This is Deepansh Agrawal’s
-    documentation on HTML. \</p\> So the output will be:
+   <br> Let us discuss a HTML tag: <br> \<p\> This is Deepansh Agrawal’s
+    documentation on HTML. \</p\> <br> So the output will be:
     
     This is Deepansh Agrawal’s documentation on HTML.
     
