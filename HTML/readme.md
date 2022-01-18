@@ -12,8 +12,8 @@
     their webpage. Html is not a case sensitive language so the tags
     \<H1\> & \<h1\> works in a similar way.  
    Let us discuss a HTML tag: <br> \<p\> This is Deepansh Agrawal’s
-    documentation on HTML. \</p\> <br> So the output will be:
-    This is Deepansh Agrawal’s documentation on HTML. 
+    documentation on HTML. \</p\> <br> So the output will be: <br>
+    This is Deepansh Agrawal’s documentation on HTML. <br>
     Every tag contains an opening and a closing part. Some of the tags
     do not require both opening and closing tags such as \</br\> which
     can be used to break a new line.
