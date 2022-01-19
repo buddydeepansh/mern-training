@@ -111,3 +111,16 @@
     and boldest and moving towards \<h6\> smallest. Ex:
     
     ## This is a type of h2 heading.
+  - ### ANCHOR \<a\> ELEMENT
+    
+    The anchor element is used to either create a hyperlink of other
+    websites or create a hyperlink to mail or phone. It also has both
+    opening and closing tags so the content between the \<a\> & \</a\>
+    can be displayed as a link and whenever a cursor points towards the
+    links the user can redirect to the particular link or mail or phone.
+    The anchor tag generally contains a href attribute in which we
+    provide the link where we want to redirect the user if they click on
+    it. The new link can open in the same tab or new tab/window
+    depending upon the value of the target attribute.  
+    Ex: [Click here to visit the documentation on \<a\>
+    element.](“https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a”)
