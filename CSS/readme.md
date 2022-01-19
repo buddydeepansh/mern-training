@@ -38,13 +38,13 @@
       The Code in HTML File:
 
       `<p class="externalcss">Lorem ipsum dolor sit amet.</p>`   
-      
+
 
 - ### NAVIGATE FROM SECTIONS USING ID
       
       We can navigate from one section to another of the same webpage by
-      using <a>tag and using CSS ID’s. Suppose we want to navigate to
-      id “navigate” then we will create an<a> tag by giving it
+      using \<a\> tag and using CSS ID’s. Suppose we want to navigate to
+      id “navigate” then we will create an \<a\> tag by giving it
       the id in the href attribute. 
       Ex:
 
