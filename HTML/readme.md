@@ -79,7 +79,8 @@
     by right click -\> view source. In this way if we are not a
     developer of that webpage, then we can see the source code as how
     the developer has designed the page.
-### HTML TAGS / ELEMENTS
+
+- ### HTML TAGS / ELEMENTS
 
 So there are many many tags in html which have separate roles or work to
 do. For example an tag will let you add an image to your webpage or an
