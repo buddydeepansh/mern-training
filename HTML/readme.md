@@ -82,21 +82,21 @@
 
 - ### HTML TAGS / ELEMENTS
 
-So there are many many tags in html which have separate roles or work to
-do. For example an tag will let you add an image to your webpage or an
-<span>tag which is an anchor tag allows you to add links to your
-webpage. Let us take a tag and understand it’s syntax:</span>
+    So there are many many tags in html which have separate roles or work to
+    do. For example an tag will let you add an image to your webpage or an
+    <span>tag which is an anchor tag allows you to add links to your
+    webpage. Let us take a tag and understand it’s syntax:</span>
 
-This is a paragraph tag.
+    This is a paragraph tag.
 
-There are 3 main parts: The opening tag: In case of an opening tag it
-consists of the tag within the angle brackets and tells the browser that
-the particular rag is being started. In the above case
+    There are 3 main parts: The opening tag: In case of an opening tag it
+    consists of the tag within the angle brackets and tells the browser that
+    the particular rag is being started. In the above case
 
-is the opening tag. The closing tag: In case of a closing tag,it tells
-the browser that the following tag is now being closed and it is also
-between angle braces. In the above example
+    is the opening tag. The closing tag: In case of a closing tag,it tells
+    the browser that the following tag is now being closed and it is also
+    between angle braces. In the above example
 
-acts as a closing paragraph tag. The content: The content refers to the
-data which you are writing between the opening and closing tags. In the
-above example “This is a paragraph tag.” is the content.
+    acts as a closing paragraph tag. The content: The content refers to the
+    data which you are writing between the opening and closing tags. In the
+    above example “This is a paragraph tag.” is the content.
