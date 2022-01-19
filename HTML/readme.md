@@ -155,7 +155,7 @@
         open mdn docs in the new
         tab.](https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/target)
     
-    - #### download attribute
+    - #### Download attribute
     
         The anchor tag has another very useful attribute known as download.
         Whenever we click on a link wrapped inside an anchor tag, it open up
