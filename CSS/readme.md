@@ -50,5 +50,5 @@
     ```<span id="navigate">This is navigated place.</span>```  
     ```</span>[Click here to navigate](#navigate)```
 
-<span id="navigate">This is navigated place.</span>  
+    <span id="navigate">This is navigated place.</span>  
     </span>[Click here to navigate](#navigate)
