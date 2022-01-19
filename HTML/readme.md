@@ -53,7 +53,7 @@
     Whereas an interpreter takes a single line of code at a time. It
     never produces an intermediate machine code. It is best suited for a
     software development environment. It is used by languages such as
-    python, perl, ruby, etc  
+    python, perl, ruby, etc.  
     Parser or we can use HTMLParser for html. Parsing means analyzing
     and converting a program into an internal format that a runtime
     environment can actually run. Initially when we open a html file in
@@ -61,3 +61,21 @@
     process is called tokenization. Then after tokenization, nodes are
     created from the tokens. These nodes are then converted into a DOM
     i.e. document object model as a tree structure.
+
+  - ### DEVELOPER TOOLS
+    
+    So, basically developer tools are the modern tools provided by the
+    web browser which are being used by the developer to test, debug,
+    view source code of their website. The main task of developer tools
+    can be that a person can open the developer tools and scroll to a
+    particular section of a web page and there they can test, debug or
+    change their design.  
+    Similarly dev tools are being used to understand the structure of a
+    web page or how the elements are being aligned over one another. We
+    can use developer tools in almost all browsers. In google chrome we
+    can enter developer tools section either by right click -\> inspect,
+    or by the shortcut key : Ctrl + Shift + I.  
+    As developer tools we can also view the source code of any webpage
+    by right click -\> view source. In this way if we are not a
+    developer of that webpage, then we can see the source code as how
+    the developer has designed the page.
