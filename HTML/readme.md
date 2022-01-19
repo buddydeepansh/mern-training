@@ -200,3 +200,16 @@
     text. Below is an example of both \<b\> and \<strong\> elements.  
     **This is \<b\> element.**  
     **This is \<strong\> element.**
+
+  - ### EMPHASIS \<em\> Italics \<i\>
+    
+    The \<i\> tag displays the text in italic. Like the \<b\> tag, the
+    \<i\> tag is also used for presentation purposes. It represents some
+    part of a text in an alternate voice or mood or something that
+    indicates a different quality of text. The \<em\> tag specifies the
+    stress emphasis of its contents. It can be used for changing the
+    meaning of a sentence. The text within this tag is also displayed in
+    italic.  
+    For Example:  
+    *This is \<i\> element.*  
+    *This is \<em\> element.*
