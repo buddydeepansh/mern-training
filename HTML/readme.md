@@ -114,7 +114,7 @@
 
   ## This is a type of h2 heading.
 
-- ### ANCHOR \<a\> ELEMENT
+  - ### ANCHOR \<a\> ELEMENT
     
     The anchor element is used to either create a hyperlink of other
     websites or create a hyperlink to mail or phone. It also has both
@@ -128,7 +128,7 @@
     Ex: [Click here to visit the documentation on \<a\>
     element.](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a)
     
-   - #### Absolute and Relative URL
+    - #### Absolute and Relative URL
     
         Absolute urls are the url’s which contain every data related to the
         link or the anchored webpage / object. It consists of domain name,
@@ -137,7 +137,6 @@
         same url with or without http. Example of absolute url is :
         [Absolute
         URL](https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/target)
-        
         Relative urls are the urls which are mostly used for linking the
         internal files, webpages, images or other objects. So that the
         developers don't have to write the full address of the object
@@ -147,7 +146,7 @@
         url’s load faster as compared to absolute urls. Example of
         relative url: [log.txt](/log.txt)
     
-   - #### Target attribute
+    - #### Target attribute
     
         Target is an attribute of anchor tag by which we can decide and tell
         the browser where to open the link anchored. The target attribute
@@ -155,18 +154,18 @@
         window/tab, different iframe, etc. Example of target: [Click here to
         open mdn docs in the new
         tab.](https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/target)
-
-
-  - #### download attribute
-  
+    
+    - #### download attribute
+    
         The anchor tag has another very useful attribute known as download.
         Whenever we click on a link wrapped inside an anchor tag, it open up
         in a new page or same tab. But if we add the download attribute
         inside the anchor tag then it will pop up a dialog box and ask the
         user to save the file or object instead of opening it. The value we
         give in double quotes of download attribute takes the filename which
-        we want to give user to save the file.
-        Ex: [Click to download](images/myimage1.jpg)
+        we want to give user to save the file. Ex: [Click to
+        download](images/myimage1.jpg)
+
 
 - ### IMAGE \<img\> ELEMENT
 
