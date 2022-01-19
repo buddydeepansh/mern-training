@@ -137,6 +137,7 @@
     same url with or without http. Example of absolute url is :
     [Absolute
     URL](https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/target)
+    
     Relative urls are the urls which are mostly used for linking the
     internal files, webpages, images or other objects. So that the
     developers don't have to write the full address of the object
@@ -154,8 +155,6 @@
     window/tab, different iframe, etc. Example of target: [Click here to
     open mdn docs in the new
     tab.](https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/target)
-
-  - ###
 
 
 - ### IMAGE \<img\> ELEMENT
