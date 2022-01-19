@@ -110,4 +110,6 @@
     section elements from \<h1\> to \<h6\>, as \<h1\> being the largest
     and boldest and moving towards \<h6\> smallest. Ex:
     
-    ## This is a type of h2 heading.
+    ``` 
+      This is a type of h2 heading.  
+    ```
