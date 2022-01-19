@@ -44,3 +44,20 @@
     <p align="center">
     <img  src="images/html tree structure.png" width="450px" height="300px" alt="HTML TREE STRUCTURE">
     </p>
+  - ### COMPILER, INTERPRETER & HTMLPARSER
+    
+    A compiler takes the entire program in one go. It generates an
+    intermediate machine code. It is best suited for the production
+    environment. The compiler used by programming languages such as
+    C,C++, java, etc. It generates errors on compile time only.  
+    Whereas an interpreter takes a single line of code at a time. It
+    never produces an intermediate machine code. It is best suited for a
+    software development environment. It is used by languages such as
+    python, perl, ruby, etc  
+    Parser or we can use HTMLParser for html. Parsing means analyzing
+    and converting a program into an internal format that a runtime
+    environment can actually run. Initially when we open a html file in
+    a browser, it converts the stream of characters into tokens and this
+    process is called tokenization. Then after tokenization, nodes are
+    created from the tokens. These nodes are then converted into a DOM
+    i.e. document object model as a tree structure.
