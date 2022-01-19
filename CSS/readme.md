@@ -22,9 +22,12 @@
         write whole css for the html file under the head section using
         the style tags.  
         Ex:
+        
         ```
+
        <p id="internal">Lorem ipsum dolor sit amet consectetur.</p>
         ```
+
     3.  #### EXTERNAL CSS
         
         The best practice of using CSS is by External CSS. In this case
@@ -33,8 +36,10 @@
         the head section. Ex: The Code in CSS File:  
         .externalcss{ color: yellow; }  
         
-        The Code in HTML File:  
+        The Code in HTML File: 
+
         ```
         <p class="externalcss">Lorem ipsum dolor sit amet.</p>
+
         ```
         Lorem ipsum dolor sit amet.
