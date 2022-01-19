@@ -125,3 +125,21 @@
     depending upon the value of the target attribute.  
     Ex: [Click here to visit the documentation on \<a\>
     element.](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a)
+
+  - ### IMAGE \<img\> ELEMENT
+    
+    The image element is used to embed the images in your web pages to
+    make your webpage more interactive to users. The image element does
+    not have a closing tag, instead the best practice suggests to use a
+    “/” in the \<img\> tag. Image element has the following set of
+    attributes such as src which takes either the url of the image (in
+    case if the image is being taken from the internet) or the relative
+    path (in case if the image is stored locally in your computer).
+    Image element also have an attribute alt which is very useful in
+    cases if a browser cannot load the image or the image is corrupted
+    for some reasons then the text written in the alt attribute will be
+    displayed instead of the image so the user gets the idea of what the
+    image was all about. Html supports each type of image formats such
+    as jpeg, png, svg, webp, etc. Ex:  
+    
+    ![Sunflower image](images/myimage1.jpg)
