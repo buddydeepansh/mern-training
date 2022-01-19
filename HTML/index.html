@@ -137,11 +137,13 @@
             </p>
         </li>
         <br>
+    -->
         <li>
             <h3>ANCHOR &lt;a&gt; ELEMENT </h3>
             <p>
                 The anchor element is used to either create a hyperlink of other websites or create a hyperlink to mail
-                or phone. It also has both opening and closing tags so the content between the &lt;a&gt; & &lt;/a&gt; can be
+                or phone. It also has both opening and closing tags so the content between the &lt;a&gt; & &lt;/a&gt;
+                can be
                 displayed as a link and whenever a cursor points towards the links the user can redirect to the
                 particular link or mail or phone.
                 The anchor tag generally contains a href attribute in which we provide the link where we want to
@@ -152,8 +154,31 @@
                     Click here to visit the documentation on &lt;a&gt; element.
                 </a>
             </p>
+            <h4>Absolute and Relative URL</h4>
+            <p>
+                Absolute urls are the url’s which contain every data related to the link or the anchored webpage /
+                object. It consists of domain name, protocol , etc. Absolute urls are best for external website links or
+                to prevent web scraping, disallowing duplicate contents such as the same url with or without http.
+                Example of absolute url is :  <a href="https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/target" >Absolute URL </a>
+                    Relative urls are the urls which are mostly used for linking the internal files, webpages, images or
+                    other objects. So that the developers don't have to write the full address of the object instead
+                    they can just add the relative path of the object from their current object file. The relative path
+                    starts with the forward slash and leads the browser to stay within the current site. Relative url’s
+                    load faster as compared to absolute urls.
+                    Example of relative url: <a href="/log.txt">log.txt </a>
+
+            </p>
+            <h4>Target attribute</h4>
+            <p>
+                Target is an attribute of anchor tag by which we can decide and tell the browser where to open the link
+                anchored. The target attribute can open a link in the same iframe, same window, same tab, different
+                window/tab, different iframe, etc.
+                Example of target: <a href="https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/target"
+                    target="_blank"> Click here to open mdn docs in the new tab. </a>
+            </p>
+
         </li>
-        
+        <!--
         <li>
             <h3> IMAGE &lt;img&gt; ELEMENT </h3>
             <p>
@@ -270,23 +295,30 @@
                 <em>This is &lt;em&gt; element.</em>
             </p>
         </li>
-    -->
-
+        
         <li>
             <h3>SPAN &lt;span&gt; ELEMENT </h3>
             <p>&lt;span&gt; element is a simple container tag which is used to contain elements on which we can apply a
-                    similar type of styling or javascript by giving the span an id or class. Span itself don't have any
-                    kind of properties and it have very similar features as of &lt;div&gt; unlike &lt;span&gt; is an inline display
-                            type of element. </p> <br>
-                            For ex: ```
-                            <span>
-                                <h5>This is Span Heading.</h5>
-                                <p>Lorem ipsum dolor sit amet.</p>
-                            </span>```
-                            <span>
-                                <h5>This is Span Heading.</h5>
-                                <p>Lorem ipsum dolor sit amet.</p>
+                similar type of styling or javascript by giving the span an id or class. Span itself don't have any
+                kind of properties and it have very similar features as of &lt;div&gt; unlike &lt;span&gt; is an inline display
+                type of element. </p> <br>
+                For ex: ```
+                <span>
+                    <h5>This is Span Heading.</h5>
+                    <p>Lorem ipsum dolor sit amet.</p>
+                </span>```
+                <span>
+                    <h5>This is Span Heading.</h5>
+                    <p>Lorem ipsum dolor sit amet.</p>
                             </span>
+                        </li>
+                        
+                    -->
+
+        <li>
+            <h3>
+
+            </h3>
         </li>
 
     </ul>

@@ -114,19 +114,49 @@
 
   ## This is a type of h2 heading.
 
-- ### ANCHOR \<a\> ELEMENT
+  - ### ANCHOR \<a\> ELEMENT
+    
+    The anchor element is used to either create a hyperlink of other
+    websites or create a hyperlink to mail or phone. It also has both
+    opening and closing tags so the content between the \<a\> & \</a\>
+    can be displayed as a link and whenever a cursor points towards the
+    links the user can redirect to the particular link or mail or phone.
+    The anchor tag generally contains a href attribute in which we
+    provide the link where we want to redirect the user if they click on
+    it. The new link can open in the same tab or new tab/window
+    depending upon the value of the target attribute.  
+    Ex: [Click here to visit the documentation on \<a\>
+    element.](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a)
+    
+    #### Absolute and Relative URL
+    
+    Absolute urls are the url’s which contain every data related to the
+    link or the anchored webpage / object. It consists of domain name,
+    protocol , etc. Absolute urls are best for external website links or
+    to prevent web scraping, disallowing duplicate contents such as the
+    same url with or without http. Example of absolute url is :
+    [Absolute
+    URL](https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/target)
+    Relative urls are the urls which are mostly used for linking the
+    internal files, webpages, images or other objects. So that the
+    developers don't have to write the full address of the object
+    instead they can just add the relative path of the object from their
+    current object file. The relative path starts with the forward slash
+    and leads the browser to stay within the current site. Relative
+    url’s load faster as compared to absolute urls. Example of
+    relative url: [log.txt](/log.txt)
+    
+    #### Target attribute
+    
+    Target is an attribute of anchor tag by which we can decide and tell
+    the browser where to open the link anchored. The target attribute
+    can open a link in the same iframe, same window, same tab, different
+    window/tab, different iframe, etc. Example of target: [Click here to
+    open mdn docs in the new
+    tab.](https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/target)
 
-  The anchor element is used to either create a hyperlink of other
-  websites or create a hyperlink to mail or phone. It also has both
-  opening and closing tags so the content between the \<a\> & \</a\>
-  can be displayed as a link and whenever a cursor points towards the
-  links the user can redirect to the particular link or mail or phone.
-  The anchor tag generally contains a href attribute in which we
-  provide the link where we want to redirect the user if they click on
-  it. The new link can open in the same tab or new tab/window
-  depending upon the value of the target attribute.  
-  Ex: [Click here to visit the documentation on \<a\>
-  element.](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a)
+  - ###
+
 
 - ### IMAGE \<img\> ELEMENT
 
