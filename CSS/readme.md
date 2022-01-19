@@ -23,8 +23,7 @@
         the style tags.  
         Ex:
 
-        ```
-       <p id="internal">Lorem ipsum dolor sit amet consectetur.</p>```
+        ```<p id="internal">Lorem ipsum dolor sit amet consectetur.</p>```
         
 
     3.  #### EXTERNAL CSS
