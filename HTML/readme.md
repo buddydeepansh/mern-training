@@ -156,9 +156,6 @@
         open mdn docs in the new
         tab.](https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/target)
 
-        <a href="www.google.com" target="_blank">Google </a>
-
-
 - ### IMAGE \<img\> ELEMENT
 
   The image element is used to embed the images in your web pages to
