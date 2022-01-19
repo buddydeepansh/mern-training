@@ -36,8 +36,5 @@
         
         The Code in HTML File: 
 
-        ```
-        <p class="externalcss">Lorem ipsum dolor sit amet.</p>
-
-        ```
+        ```<p class="externalcss">Lorem ipsum dolor sit amet.</p>```
         Lorem ipsum dolor sit amet.
