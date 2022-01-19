@@ -122,8 +122,4 @@
     provide the link where we want to redirect the user if they click on
     it. The new link can open in the same tab or new tab/window
     depending upon the value of the target attribute.  
-    Ex: [Click here to visit the documentation on \<a\>
-    element.](“https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a”)
-    <a href=“https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a”>
-                    Click here to visit the documentation on &lt;a&gt; element.
-                </a>
+    Ex: [Click here to visit the documentation on \<a\> element.](“https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a”)
