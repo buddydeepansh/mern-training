@@ -142,4 +142,6 @@
     image was all about. Html supports each type of image formats such
     as jpeg, png, svg, webp, etc. Ex:  
     
-    ![Sunflower image](images/myimage1.jpg)
+<p align="center">
+    <img  src="images/myimage1.jpg" width="10%" height="10%" alt="HTML TREE STRUCTURE">
+    </p>
