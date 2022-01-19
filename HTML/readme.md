@@ -42,4 +42,4 @@
     tags in which the web page will appear.  
     Below is a visual representation of html as a tree data structure.
     
-    ![HTML TREE STRUCTURE](images/html%20tree%20structure.png =400x250)
+    ![HTML TREE STRUCTURE](images/html%20tree%20structure.png =400*250)
