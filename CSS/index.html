@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS DOCUMENTATION</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        #internal {
+            color: aqua;
+        }
+    </style>
+</head>
+
+<body>
+    <ul>
+        <li>
+            <h3>CSS</h3>
+            <p>CSS stands for Cascading Style sheets which is a stylesheet language used to design out html pages or
+                xml. It describes how the elements of html can be displayed / rendered on the screen to the user. We can
+                change the properties of elements such as color, background color, font size, alignment, etc using css.
+                CSS is included using the style attribute.
+                <br>
+            <ol>
+                <li>
+                    <h4>INLINE CSS</h4>
+                    <p>Inline CSS is used to add css to a particular html element only. Inline css is not recommended if
+                        our html code is large as it reduces the indexing. It is good only for small html codes.
+
+                        <br>
+                        Ex: <xmp>
+                            <h5 style="color:red;"> Inline CSS </h5>
+                        </xmp>
+                    <h5 style="color:red;"> Inline CSS </h5>
+                    </p>
+
+                </li>
+                <li>
+                    <h4>INTERNAL CSS</h4>
+                    <p>
+
+                        Instead of writing css everywhere in the html elements we can write whole css for the html file
+                        under the head section using the style tags.
+                        <br>Ex:
+
+                    <p id="internal">Lorem ipsum dolor sit amet consectetur.</p>
+
+                    </p>
+                </li>
+                <li>
+                    <h4>EXTERNAL CSS</h4>
+                    <p>
+
+                        The best practice of using CSS is by External CSS. In this case we make an additional CSS file
+                        using a .css extension and then link this file to our html file using the
+                        &lt;link&gt; element in the head section.
+                        Ex: The Code in CSS File: <br>
+                        <xmp>
+                            .externalcss{
+                            color: yellow;
+                            }
+                        </xmp>
+                        <br>
+                        The Code in HTML File: <br>
+                        <xmp>
+                            <p class="externalcss">Lorem ipsum dolor sit amet.</p>
+                        </xmp>
+                    <p class="externalcss">Lorem ipsum dolor sit amet.</p>
+                    </p>
+                </li>
+            </ol>
+            </p>
+        </li>
+    </ul>
+</body>
+
+</html>
