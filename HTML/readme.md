@@ -27,3 +27,19 @@
     is why .htm but the newer browser accepts .html-based versions also.
     So, broadly speaking, the extension tells the browser that the file
     is an html file.
+
+  - ### STRUTURE OF HTML
+    
+    We can understand HTML’s web page structure using a tree data
+    structure. Every tree has a root node, then it has 2 child nodes
+    i.e. Left child node and right child node. Then each child of the
+    root also has 2 child nodes and this structure continues. So in the
+    case of HTML we can describe html as a root node and it has 2 child
+    nodes which are the head and the body section. Then the head section
+    also has child nodes such as title, links, scrips and many more.
+    Similarly the body section also has child nodes such as script,
+    image,p, div, ect. The structure of the webpage defines the flow of
+    tags in which the web page will appear.  
+    Below is a visual representation of html as a tree data structure.
+    
+    ![HTML TREE STRUCTURE](images/html%20tree%20structure.png)
