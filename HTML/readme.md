@@ -229,9 +229,9 @@
 
   ```
    <span>
-                              <h5>This is Span Heading.</h5>
-                              <p>Lorem ipsum dolor sit amet.</p>
-                          </span>
+      <h5>This is Span Heading.</h5>
+      <p>Lorem ipsum dolor sit amet.</p>
+    </span>
   ```
 
   ##### This is Span Heading.
