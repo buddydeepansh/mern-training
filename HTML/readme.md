@@ -201,7 +201,7 @@
     **This is \<b\> element.**  
     **This is \<strong\> element.**
 
-  - ### EMPHASIS \<em\> Italics \<i\>
+  - ### EMPHASIS \<em\> ITALIC \<i\> ELEMENT
     
     The \<i\> tag displays the text in italic. Like the \<b\> tag, the
     \<i\> tag is also used for presentation purposes. It represents some
@@ -213,3 +213,24 @@
     For Example:  
     *This is \<i\> element.*  
     *This is \<em\> element.*
+
+  - ### SPAN \<span\> ELEMENT
+    
+    \<span\> element is a simple container tag which is used to contain
+    elements on which we can apply a similar type of styling or
+    javascript by giving the span an id or class. Span itself don't have
+    any kind of properties and it have very similar features as of
+    \<div\> unlike \<span\> is an inline display type of element.
+    
+      
+    For ex: \`\`\` <span> </span>
+    
+    ##### This is Span Heading.
+    
+    Lorem ipsum dolor sit amet.
+    
+    \`\`\` <span> </span>
+    
+    ##### This is Span Heading.
+    
+    Lorem ipsum dolor sit amet.
