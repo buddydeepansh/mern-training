@@ -158,16 +158,16 @@
 
 
   - #### download attribute
-    
+  
         The anchor tag has another very useful attribute known as download.
         Whenever we click on a link wrapped inside an anchor tag, it open up
         in a new page or same tab. But if we add the download attribute
         inside the anchor tag then it will pop up a dialog box and ask the
         user to save the file or object instead of opening it. The value we
         give in double quotes of download attribute takes the filename which
-        we want to give user to save the file. Ex: [Click to
-        download](images/myimage1.jpg)
-        
+        we want to give user to save the file.
+        Ex: [Click to download](images/myimage1.jpg)
+
 - ### IMAGE \<img\> ELEMENT
 
   The image element is used to embed the images in your web pages to
