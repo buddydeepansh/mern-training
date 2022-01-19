@@ -146,3 +146,44 @@
 <p align="center">
     <img  src="images/myimage1.jpg" width="10%" height="10%" alt="HTML TREE STRUCTURE">
     </p>
+
+  - ### TABLE \<table\> ELEMENT
+    
+    The \<table\> element is used to display data in a two-dimensional
+    tabular way where the table contains rows and columns. Each cell in
+    a row contains a data. A table is also used to quickly see
+    relationships between 2 columns. There are many sub-elements in a
+    \<table\> element such as \<thead\>, \<th\>, \<tbody\> , \<tb\>,
+    \<td\>, etc. Below is an example of HTML Table.  
+    \<table style="border-spacing: 10px;"\>  
+    \<thead\>  
+    \<tr\>  
+    \<td\>NAME\</td\>  
+    \<td\>Age\</td\>  
+    \<td\>GENDER\</td\>  
+    \</tr\>  
+    \</thead\>  
+    \<tbody\>  
+    \<tr\>  
+    \<td\>Deepansh\</td\>  
+    \<td\>22\</td\>  
+    \<td\>Male\</td\>  
+    \</tr\>  
+    \<tr\>  
+    \<td\>Aashu\</td\>  
+    \<td\>20\</td\>  
+    \<td\>Male\</td\>  
+    \</tr\>  
+    \<tr\>  
+    \<td\>Mahima\</td\>  
+    \<td\>21\</td\>  
+    \<td\>Female\</td\>  
+    \</tr\>  
+    \</tbody\>  
+    \</table\>  
+    
+    | NAME     | Age | GENDER |
+    | -------- | --- | ------ |
+    | Deepansh | 22  | Male   |
+    | Aashu    | 20  | Male   |
+    | Mahima   | 21  | Female |
