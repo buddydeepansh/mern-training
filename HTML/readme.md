@@ -155,16 +155,17 @@
     relationships between 2 columns. There are many sub-elements in a
     \<table\> element such as \<thead\>, \<th\>, \<tbody\> , \<tb\>,
     \<td\>, etc. Below is an example of HTML Table.  
-                        \<table style="border-spacing: 10px;">
-                        \<thead>
+    ```
+    <table style="border-spacing: 10px;">
+                        <thead>
                             <tr>
                                 <td>NAME</td>
                                 <td>Age</td>
                                 <td>GENDER</td>
                             </tr>
-                        \</thead>
-                        \<tbody>
-                            \<tr>
+                        </thead>
+                        <tbody>
+                            <tr>
                                 <td>Deepansh</td>
                                 <td>22</td>
                                 <td>Male</td>
@@ -179,8 +180,9 @@
                                 <td>21</td>
                                 <td>Female</td>
                             </tr>
-                       \</tbody>
-                    \</table> 
+                        </tbody>
+                    </table>
+    ```
     
     | NAME     | Age | GENDER |
     | -------- | --- | ------ |
