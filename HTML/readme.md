@@ -140,7 +140,10 @@
     for some reasons then the text written in the alt attribute will be
     displayed instead of the image so the user gets the idea of what the
     image was all about. Html supports each type of image formats such
-    as jpeg, png, svg, webp, etc. Ex:  
+    as jpeg, png, svg, webp, etc. Ex:         <pre>
+
+           <img  src="images/myimage1.jpg" width="10%" height="10%" alt="HTML TREE STRUCTURE">
+       </pre>
     
 <p align="center">
     <img  src="images/myimage1.jpg" width="10%" height="10%" alt="HTML TREE STRUCTURE">
