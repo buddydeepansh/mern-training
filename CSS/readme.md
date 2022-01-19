@@ -22,10 +22,11 @@
         write whole css for the html file under the head section using
         the style tags.  
         Ex:
-        
+
         ```
 
        <p id="internal">Lorem ipsum dolor sit amet consectetur.</p>
+       
         ```
 
     3.  #### EXTERNAL CSS
