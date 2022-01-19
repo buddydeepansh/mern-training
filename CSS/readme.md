@@ -45,5 +45,7 @@
     id “navigate” then we will create an</span> <span>tag by giving it
     the id in the href attribute.  
     Ex:  
-    <span id="navigate">This is navigated place.</span>  
+    ```<span id="navigate">This is navigated place.</span>```  
+    ```</span>[Click here to navigate](#navigate)```
+<span id="navigate">This is navigated place.</span>  
     </span>[Click here to navigate](#navigate)
