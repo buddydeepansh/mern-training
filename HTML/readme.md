@@ -114,7 +114,7 @@
 
   ## This is a type of h2 heading.
 
-  - ### ANCHOR \<a\> ELEMENT
+- ### ANCHOR \<a\> ELEMENT
     
     The anchor element is used to either create a hyperlink of other
     websites or create a hyperlink to mail or phone. It also has both
@@ -128,7 +128,7 @@
     Ex: [Click here to visit the documentation on \<a\>
     element.](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a)
     
-    #### Absolute and Relative URL
+   - #### Absolute and Relative URL
     
     Absolute urls are the url’s which contain every data related to the
     link or the anchored webpage / object. It consists of domain name,
@@ -146,7 +146,7 @@
     url’s load faster as compared to absolute urls. Example of
     relative url: [log.txt](/log.txt)
     
-    #### Target attribute
+   - #### Target attribute
     
     Target is an attribute of anchor tag by which we can decide and tell
     the browser where to open the link anchored. The target attribute
