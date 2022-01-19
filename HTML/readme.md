@@ -189,3 +189,14 @@
     | Deepansh | 22  | Male   |
     | Aashu    | 20  | Male   |
     | Mahima   | 21  | Female |
+
+  - ### BOLD \<b\> & STRONG \<strong\> ELEMENT
+    
+    The html element \<b\> was used to make the content bold-face or you
+    may say to bring the reader’s immediate attention to the bolded
+    text. However the best practices suggest that we should use
+    \<strong\> element instead of \<b\> element to bold the text. We can
+    also use the font-weight attribute to increase the boldness of the
+    text. Below is an example of both \<b\> and \<strong\> elements.  
+    **This is \<b\> element.**  
+    **This is \<strong\> element.**
