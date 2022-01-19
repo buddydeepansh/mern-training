@@ -124,3 +124,6 @@
     depending upon the value of the target attribute.  
     Ex: [Click here to visit the documentation on \<a\>
     element.](“https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a”)
+    <a href=“https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a”>
+                    Click here to visit the documentation on &lt;a&gt; element.
+                </a>
