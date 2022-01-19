@@ -97,3 +97,17 @@
     The content: The content refers to the data which you are writing
     between the opening and closing tags. In the above example “This is
     a paragraph tag.” is the content.
+  - ### \<h\> ELEMENT
+    
+    The heading element refers to the heading of a paragraph or text
+    written in big/bold letters. Heading is used to highlight important
+    topics. Search engines use headings for indexing and structuring the
+    content of a web page. There are 6 types of heading section elements
+    from The heading element refers to the heading of a paragraph or
+    text written in big/bold letters. Heading is used to highlight
+    important topics. Search engines use headings for indexing and
+    structuring the content of a web page. There are 6 types of heading
+    section elements from \<h1\> to \<h6\>, as \<h1\> being the largest
+    and boldest and moving towards \<h6\> smallest. Ex:
+    
+    ## This is a type of h2 heading.
