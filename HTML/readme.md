@@ -130,31 +130,31 @@
     
    - #### Absolute and Relative URL
     
-    Absolute urls are the url’s which contain every data related to the
-    link or the anchored webpage / object. It consists of domain name,
-    protocol , etc. Absolute urls are best for external website links or
-    to prevent web scraping, disallowing duplicate contents such as the
-    same url with or without http. Example of absolute url is :
-    [Absolute
-    URL](https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/target)
-    
-    Relative urls are the urls which are mostly used for linking the
-    internal files, webpages, images or other objects. So that the
-    developers don't have to write the full address of the object
-    instead they can just add the relative path of the object from their
-    current object file. The relative path starts with the forward slash
-    and leads the browser to stay within the current site. Relative
-    url’s load faster as compared to absolute urls. Example of
-    relative url: [log.txt](/log.txt)
+        Absolute urls are the url’s which contain every data related to the
+        link or the anchored webpage / object. It consists of domain name,
+        protocol , etc. Absolute urls are best for external website links or
+        to prevent web scraping, disallowing duplicate contents such as the
+        same url with or without http. Example of absolute url is :
+        [Absolute
+        URL](https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/target)
+        
+        Relative urls are the urls which are mostly used for linking the
+        internal files, webpages, images or other objects. So that the
+        developers don't have to write the full address of the object
+        instead they can just add the relative path of the object from their
+        current object file. The relative path starts with the forward slash
+        and leads the browser to stay within the current site. Relative
+        url’s load faster as compared to absolute urls. Example of
+        relative url: [log.txt](/log.txt)
     
    - #### Target attribute
     
-    Target is an attribute of anchor tag by which we can decide and tell
-    the browser where to open the link anchored. The target attribute
-    can open a link in the same iframe, same window, same tab, different
-    window/tab, different iframe, etc. Example of target: [Click here to
-    open mdn docs in the new
-    tab.](https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/target)
+        Target is an attribute of anchor tag by which we can decide and tell
+        the browser where to open the link anchored. The target attribute
+        can open a link in the same iframe, same window, same tab, different
+        window/tab, different iframe, etc. Example of target: [Click here to
+        open mdn docs in the new
+        tab.](https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/target)
 
 
 - ### IMAGE \<img\> ELEMENT
