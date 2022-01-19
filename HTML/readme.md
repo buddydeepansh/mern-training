@@ -41,5 +41,6 @@
     image,p, div, ect. The structure of the webpage defines the flow of
     tags in which the web page will appear.  
     Below is a visual representation of html as a tree data structure.
-    
-    <img src="images/html tree structure.png" width="400px" height="200px" alt="HTML TREE STRUCTURE">
+    <p align="center">
+    <img  src="images/html tree structure.png" width="400px" height="200px" alt="HTML TREE STRUCTURE">
+    </p>
