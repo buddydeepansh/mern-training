@@ -122,4 +122,4 @@
     provide the link where we want to redirect the user if they click on
     it. The new link can open in the same tab or new tab/window
     depending upon the value of the target attribute.  
-    Ex: [Click here to visit the documentation on  element.](“https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a”)
+    Ex: [Click here to visit the documentation on \<a\> element.]("https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a")
