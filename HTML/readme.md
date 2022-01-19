@@ -86,13 +86,7 @@
     do. For example an tag will let you add an image to your webpage or an
     tag which is an anchor tag allows you to add links to your webpage. Let
     us take a tag and understand it’s syntax: \<p\> This is a paragraph tag.
-    \</p\> There are 3 main parts: The opening tag: In case of an opening
-    tag it consists of the tag within the angle brackets and tells the
-    browser that the particular rag is being started. In the above case
-    \<p\> is the opening tag. The closing tag: In case of a closing tag,it
-    tells the browser that the following tag is now being closed and it is
-    also between angle braces. In the above example \</p\> acts as a closing
-    paragraph tag. The content: The content refers to the data which you are
-    writing between the opening and closing tags. In the above example “This
-    is a paragraph tag.” is the content.
-
+    \</p\> There are 3 main parts:
+    The opening tag: In case of an opening tag it consists of the tag within the angle brackets and tells the browser that the particular rag is being started. In the above case \<p\> is the opening tag.
+    The closing tag: In case of a closing tag,it tells the browser that the following tag is now being closed and it is also between angle braces. In the above example \</p\> acts as a closing paragraph tag.
+    The content: The content refers to the data which you are writing between the opening and closing tags. In the above example “This is a paragraph tag.” is the content.
