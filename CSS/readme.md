@@ -13,11 +13,9 @@
         Inline css is not recommended if our html code is large as it
         reduces the indexing. It is good only for small html codes.  
         Ex:
-        
-        ##### Inline CSS
-        
-        ##### Inline CSS
-    
+        ```
+        <h5 style="color:red;"> Inline CSS </h5>
+        ```
     2.  #### INTERNAL CSS
         
         Instead of writing css everywhere in the html elements we can
