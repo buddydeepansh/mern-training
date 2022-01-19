@@ -42,7 +42,7 @@
     tags in which the web page will appear.  
     Below is a visual representation of html as a tree data structure.
     <p align="center">
-    <img  src="images/html tree structure.png" width="450px" height="300px" alt="HTML TREE STRUCTURE">
+    <img  src="images/html tree structure.png" width="50%" height="50%" alt="HTML TREE STRUCTURE">
     </p>
   - ### COMPILER, INTERPRETER & HTMLPARSER
     
