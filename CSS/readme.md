@@ -42,13 +42,13 @@
 - ### NAVIGATE FROM SECTIONS USING ID
       
       We can navigate from one section to another of the same webpage by
-      using <span>tag and using CSS ID’s. Suppose we want to navigate to
-      id “navigate” then we will create an</span> <span>tag by giving it
-      the id in the href attribute.
+      using <a>tag and using CSS ID’s. Suppose we want to navigate to
+      id “navigate” then we will create an<a> tag by giving it
+      the id in the href attribute. 
       Ex:
 
       ```<span id="navigate">This is navigated place.</span>```
       ```</span>[Click here to navigate](#navigate)``` 
-       
+
       <span id="navigate">This is navigated place.</span> 
       </span>[Click here to navigate](#navigate)
