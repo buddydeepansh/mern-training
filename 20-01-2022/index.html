@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -7,10 +8,28 @@
     <title>20/01/22 Day 03</title>
     <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
-    <form action="">
-       Username:  <input type="text" name="username"  / >
-      <br> Password:  <input type="password" name="userpass"  / >
+    <form action="thankyou.html" method="get" enctype="application/x-www-form-urlencoded">
+        <fieldset>
+            Username: <input type="text" name="username" /> <br>
+            <br> Password: <input type="password" name="userpass" /> <br>
+            <br> Gender:
+            &nbsp;&nbsp;MALE<input type="radio" name="usergender" id="" value="male">
+            &nbsp;&nbsp;FEMALE<input type="radio" name="usergender" id="" value="female">
+            &nbsp;&nbsp;OTHER<input type="radio" name="usergender" id="" value="other">
+            <br><br>EMAIL:<input type="email" name="useremail" id="">
+            <br><br>
+            DOB: <input type="date" name="userdob" id="">
+            <br><br>
+            FILE: <input type="file" name="userfile" id="">
+            <br><br>
+            <input type="search" name="usersearch" id="">
+            <br><br>
+            <input type="submit" value="subbbmit">
+            <input type="reset" value="RESET DATA">
+        </fieldset>
     </form>
 </body>
+
 </html>
