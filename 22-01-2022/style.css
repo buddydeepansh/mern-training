@@ -1,3 +1,7 @@
+*{
+    /* This is universal Selector*/
+    line-height: 1.5;
+}
 h2{
     color: aquamarine;
 }
@@ -7,5 +11,15 @@ h2{
     border-style: dotted;
 }
 .classs{
-    
+    text-align: justify;
+    color: coral;
+    font-size: 3rem;
+}
+.classs2{
+    background-color: rgb(240, 230, 230);
+    border: 5px solid burlywood;
+    line-height: 1.5;
+    padding: 2rem;
+    text-align: justify;
+    font-size: 1.5rem;
 }
