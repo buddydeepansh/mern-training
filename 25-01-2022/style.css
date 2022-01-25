@@ -1,0 +1,30 @@
+a:link,a:visited{
+    color: brown;
+    padding: 1rem;
+    border: 1px solid;
+    margin: 1rem;
+    text-decoration: none;
+    text-align: center;
+    background-color: cornflowerblue;
+    display: inline-block;
+}
+a:hover,a:active{
+    background-color: brown;
+    color: black;
+}
+tbody,thead,td,th{
+    border: 2px solid black;
+}
+table{
+    width: 50%;
+    border-collapse: collapse;
+}
+th,td{
+    padding: 10px;
+    text-align: center;
+    border-bottom: 5px solid green;
+}
+
+tr:hover{
+background-color: grey;
+}
