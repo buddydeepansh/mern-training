@@ -1,7 +1,7 @@
 ## HTML DOCUMENTATION
 
 - ### HTML
-
+  
   HTML stands for Hyper Text Markup Language, and it basically
   describes the structure of a web page, how the page is going to
   look, details inside the page , it’s appearance. It is not a
