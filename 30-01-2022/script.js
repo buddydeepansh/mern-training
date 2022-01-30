@@ -34,18 +34,38 @@ document.write("<br>");
 // document.write("Factorial = ", fact);
 
 // numbers between 1-1000 divisible by both 3 and 5 but not both
-var a = 1,
-  b = 0;
-while (a < 1000) {
-  if (a % 3 == 0 && a % 5 == 0) {
-      a++;
-      continue;
-  }
-  if (a % 3 == 0 || a % 5 == 0) {
-      b = b + a;
-      
-    }
+// var a = 1,
+//   b = 0;
+// while (a < 1000) {
+//   if (a % 3 == 0 && a % 5 == 0) {
+//       a++;
+//       continue;
+//   }
+//   if (a % 3 == 0 || a % 5 == 0) {
+//       b = b + a;
+
+//     }
+//     a++;
+
+// }
+// document.write("Sum is: ", b);
+
+// find a common number which is divisible by 1-20
+var a = 1;
+while (true) {
+  if (
+    a % 2 == 0 &&
+    a % 3 == 0 &&
+    a % 5 == 0 &&
+    a % 7 == 0 &&
+    a % 11 == 0 &&
+    a % 13 == 0 &&
+    a % 17 == 0 &&
+    a % 19 == 0
+  ) {
+    document.write("Number is : ", a);
+    break;
+  } else {
     a++;
-    
+  }
 }
-document.write("Sum is: ", b);
