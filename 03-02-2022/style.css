@@ -1,0 +1,12 @@
+.container{
+    width: 80%;
+    font-size: 1.2rem;
+    background-color: blanchedalmond;
+    height: 350px;
+    margin: 0 auto;
+    padding: 2rem 2rem;
+}
+.container input{
+    line-height: 2;
+    margin: 20px 0 0;
+}
