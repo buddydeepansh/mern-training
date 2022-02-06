@@ -1,12 +1,41 @@
-.container{
-    width: 80%;
-    font-size: 1.2rem;
-    background-color: blanchedalmond;
-    height: 350px;
-    margin: 0 auto;
-    padding: 2rem 2rem;
+@import url("https://fonts.googleapis.com/css2?family=Balsamiq+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+* {
+  font-family: 'Balsamiq Sans', cursive;
 }
-.container input{
-    line-height: 2;
-    margin: 20px 0 0;
+.container {
+  max-width: 60%;
+  font-size: 1.2rem;
+  background-color: blanchedalmond;
+  max-height: 350px;
+  min-height: 300px;
+  margin: 0 auto;
+  padding-left: 5rem;
+  padding-top: 1.5rem;
+}
+input {
+  line-height: 2;
+  font-size: 1.5rem;
+  border-radius: 30px;
+  padding: 0px 0 0px 40px;
+}
+#userinput {
+  background-color: cornflowerblue;
+}
+button {
+  line-height: 2;
+  width: 10rem;
+  padding: 0.5rem;
+  font-size: 1.1rem;
+  background-color: rgba(128, 128, 128, 0.452);
+  border-radius: 30px;
+}
+table {
+  border-collapse: collapse;
+}
+
+tr,
+td {
+  border: 2px green;
+  border-style: solid;
+  padding: 1rem;
 }

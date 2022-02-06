@@ -7,19 +7,39 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>03/02/2022 Captcha</title>
     <link rel="stylesheet" href="style.css">
-    <script src="script.js" type="text/javascript"></script>
 </head>
 
 <body>
     <h1>Captcha Generator</h1>
     <div class="container">
-        Captcha: <input type="text" id="userinput"  value="a" disabled/>
-        <button id="refresh">Refresh Captcha</button>
-        <br>
-        Enter Captcha Here: <input type="text" name="inputCaptcha" id="inputCaptcha" />
-        <br>
-        <button id="btn" onclick="check();">Check Now</button>
+        <table>
+            <tr>
+                <td>
+                    <label for="userinput">Captcha: </label>
+                </td>
+                <td>
+                <input type="text" id="userinput" value="a" disabled oncopy="return false" />
+                </td>
+                <td>
+                    <button id="refresh" onclick="captchaGenerator();">Refresh Captcha</button>
+                </td>
+            </tr>
+            <br>
+            <tr>
+                <td>
+                    <label for="inputCaptcha">Enter Captcha Here: </label>
+                </td>
+                <td>
+                    <input type="text" name="inputCaptcha" id="inputCaptcha" />
+                </td>
+                <td>
+                    <button id="btn" onclick="checkCaptcha();">Check Now</button>
+                </td>
+            </tr>
+            <br>
+        </table>
     </div>
+    <script src="script.js" type="text/javascript"></script>
 </body>
 
 </html>

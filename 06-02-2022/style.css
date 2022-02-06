@@ -1,0 +1,8 @@
+body{
+    background-color: beige;
+}
+section{
+    padding: 2rem;
+    background-color: rgba(165, 42, 42, 0.212);
+    height: 87vh;
+}
