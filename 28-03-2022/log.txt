@@ -1,0 +1,29 @@
+MERN AUTHENTICATION SYSTEM
+LOGIN & REGISTRATION
+-------------------------
+
+list of js modules
+
+bcryptjs 
+body-parser
+concurrently
+express
+is-empty
+jsonwebtoken
+mongoose
+passport
+passport-jwt
+validator
+-D nodemon {for development dependencies}
+
+
+
+-------------------------
+steps
+npm init
+make package
+
+-------------------------
+notes
+package.json
+package-log.json
